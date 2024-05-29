@@ -13,12 +13,12 @@ body {
 
 img {
     width: 500px;
-    margin: 10px 0; /* Adds space above and below each image */
+    margin: 10px 0;
 }
 
-.gif-image {
+.gif-image { 
     display: block;
-    margin: 0 auto 30px; /* Centers the GIF and adds space below it */
+    margin: 0 auto 30px;
 }
 
 .button-container {
